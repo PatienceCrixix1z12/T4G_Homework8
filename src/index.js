@@ -9,10 +9,14 @@ if (gender =="female"){
 else if(gender== "male"){
     alert(`You are a ${gender}`)
 }
-else{
+else { 
     alert(`invalid input`)
 }
 }
-
+p
 
 checkGender()
+
+package
+
+
